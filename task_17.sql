@@ -1,0 +1,1 @@
+INSERT INTO genres_manga VALUES ('13', 'Historique');
